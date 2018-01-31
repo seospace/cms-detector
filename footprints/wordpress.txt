@@ -1,0 +1,13 @@
+/wp-content/themes/
+/wp-content/
+/wp-content/plugins/
+<meta name="generator" content="WordPress
+>Proudly powered by WordPress<
+href="http://wordpress.org/" title="Powered by WordPress
+wp-comments-post.php" method
+/wp-includes/js/jquery/jquery.js
+/wp-admin
+/xmlrpc.php
+/wp-json
+/wp-includes
+/wp-embed.min.jstesttest

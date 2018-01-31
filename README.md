@@ -1,1 +1,1 @@
-# platform-identifier
+# cms-detector
